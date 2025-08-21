@@ -61,7 +61,7 @@ Visualizations and findings are contained in the Jupyter Notebook `Investigate_a
 
 ## Reviewer Feedback  
 - **Image:**
-  [![Reviewer Feedback](images/Reviewer_Feedback.png)]
+  ![Reviewer Feedback](images/Reviewer_Feedback.png)
 - **Summary:** Key points from reviewer:  
   - Analysis was thorough and well-documented  
   - Visualizations were clear and informative  
